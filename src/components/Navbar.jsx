@@ -8,7 +8,7 @@ function Navbar() {
   };
   return (
     <div className="flex justify-between items-center h-24 px-4 max-w-screen-xl mx-auto text-white">
-      <h1 className="text-3xl font-bold text-green-400">React.</h1>
+      <h1 className="text-3xl font-bold text-green-400">REACT.</h1>
       <div
         className={`fixed w-[60%] h-full left-6 top-20  md:relative bg-black md:w-auto md:h-auto md:left-auto md:top-auto ease-in-out duration-300 ${
           !mobileMenuToggle ? "left-[-100%] " : " "
