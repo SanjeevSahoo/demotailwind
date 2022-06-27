@@ -15,7 +15,7 @@ function NewsLetter() {
         <div>
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 py-6">
             <input
-              className="w-full px-2 py-3 rounded-md font-medium"
+              className="w-full px-2 py-3 rounded-md font-medium text-black"
               type="email"
               placeholder="Enter Email"
             />
